@@ -1,0 +1,4 @@
+acf:
+    app:
+        jwtExpirationMs: 76300000
+        jwtSecret: acfca
